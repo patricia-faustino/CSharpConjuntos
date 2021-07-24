@@ -1,0 +1,7 @@
+C:\src\CSharpTrabalhandoComConjuntos\TrabalhandoComConjuntos\bin\Debug\TrabalhandoComConjuntos.exe.config
+C:\src\CSharpTrabalhandoComConjuntos\TrabalhandoComConjuntos\bin\Debug\TrabalhandoComConjuntos.exe
+C:\src\CSharpTrabalhandoComConjuntos\TrabalhandoComConjuntos\bin\Debug\TrabalhandoComConjuntos.pdb
+C:\src\CSharpTrabalhandoComConjuntos\TrabalhandoComConjuntos\obj\Debug\TrabalhandoComConjuntos.csprojAssemblyReference.cache
+C:\src\CSharpTrabalhandoComConjuntos\TrabalhandoComConjuntos\obj\Debug\TrabalhandoComConjuntos.csproj.CoreCompileInputs.cache
+C:\src\CSharpTrabalhandoComConjuntos\TrabalhandoComConjuntos\obj\Debug\TrabalhandoComConjuntos.exe
+C:\src\CSharpTrabalhandoComConjuntos\TrabalhandoComConjuntos\obj\Debug\TrabalhandoComConjuntos.pdb
